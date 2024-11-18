@@ -3,12 +3,13 @@
 This repository contains an end-to-end Power BI project focusing on sales analysis and forecasting. The objective is to contribute to business success by leveraging time series analysis, interactive dashboards, and actionable insights.
 
 ### Project Objective
-To analyze sales data and provide accurate forecasts to support decision-making, growth, and operational efficiency. Key goals include:
+To analyze sales data and provide accurate forecasts to support decision-making, growth, and operational efficiency. 
+### Key goals include:
 
-Dashboard Creation: Intuitive, interactive, and visually appealing.
-Data Analysis: Insights into sales strategies' effectiveness using advanced charts and visualizations.
-Sales Forecasting: Generate 15-day sales forecasts using time series analysis.
-Actionable Insights: Deliver recommendations to support strategic decisions.
+### Dashboard Creation: Intuitive, interactive, and visually appealing.
+### Data Analysis: Insights into sales strategies' effectiveness using advanced charts and visualizations.
+### Sales Forecasting: Generate 15-day sales forecasts using time series analysis.
+### Actionable Insights: Deliver recommendations to support strategic decisions.
 
 ### Project Steps
 
